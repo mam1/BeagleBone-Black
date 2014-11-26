@@ -14,7 +14,7 @@
 #include <unistd.h>
 #include <fcntl.h>
 
-#define BAUDRATE B9600   			//Change as needed, keep B
+#define BAUDRATE B9600
 #define MODEMDEVICE "/dev/ttyO1" 	//Beaglebone Black serial port
 #define _POSIX_SOURCE 1 			//POSIX compliant source */
 #define FALSE 0
